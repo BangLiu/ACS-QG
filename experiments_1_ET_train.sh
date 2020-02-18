@@ -1,0 +1,15 @@
+python3 run_glue.py \
+        --model_type xlnet \
+        --model_name_or_path ../../../file/ET/models/xlnet-base-cased/ \
+        --task_name MRPC \
+        --do_train \
+        --do_eval \
+        --do_lower_case \
+        --data_dir ../../../file/ET/glue_data/squad-rte/MRPC/ \
+        --max_seq_length 128 \
+        --per_gpu_eval_batch_size=8   \
+        --per_gpu_train_batch_size=8   \
+        --learning_rate 2e-5 \
+        --num_train_epochs 1.0 \
+        --output_dir ../../../file/ET/et_outdir/xlnet-base-cased/ \
+        --overwrite_output_dir
