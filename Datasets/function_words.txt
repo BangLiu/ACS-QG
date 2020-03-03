@@ -1,0 +1,582 @@
+!
+!!
+!?
+"
+#
+###
+$
+%
+&
+'
+''
+'cos
+'d
+'ll
+'m
+'re
+'s
+'ve
+(
+)
+*
++
+,
+-
+-lrb-
+-lsb-
+-rrb-
+-rsb-
+.
+..
+...
+:
+;
+<
+>
+?
+?!
+??
+@
+I
+[
+]
+^
+`
+``
+a
+about
+above
+absent
+according to
+accordingly
+across
+after
+afterwards
+again
+against
+ago
+ahead
+ahead of
+albeit
+all
+all over
+almost
+alone
+along
+alongside
+already
+also
+although
+always
+am
+amid
+amidst
+among
+amongst
+amoungst
+an
+and
+another
+anti
+any
+anybody
+anyhow
+anyone
+anything
+anyway
+anywhere
+are
+aren't
+are n't
+arent
+around
+as
+as of
+as to
+aside
+astraddle
+astride
+at
+away
+away from
+backward
+backwards
+be
+be able to
+because
+because of
+been
+before
+beforehand
+behind
+being
+below
+beneath
+beside
+besides
+between
+beyond
+both
+but
+by
+by the time of
+can
+can't
+cannot
+cant
+cause
+circa
+close by
+close to
+concerning
+consequently
+considering
+could
+couldn't
+could n't
+could not
+couldnt
+dare
+despite
+did
+didn't
+did n't
+did not
+didnt
+do
+does
+doesn't
+does n't
+does not
+doesnt
+doing
+don't
+do n't
+do not
+done
+dont
+down
+due to
+during
+each
+each other
+eg
+e.g.
+either
+else
+elsewhere
+enough
+etc
+etc.
+even
+ever
+every
+everybody
+everyone
+everything
+everywhere
+except
+except for
+excepting
+excluding
+few
+first
+following
+for
+for all
+former
+formerly
+forward
+from
+further
+furthermore
+given
+going
+going to
+had
+had better
+hadn't
+had n't
+had not
+hadnt
+has
+hasn't
+has n't
+has not
+hasnt
+have
+have to
+haven't
+have n't
+have not
+havent
+having
+he
+he'd
+he 'd
+he'll
+he 'll
+he's
+he 's
+hence
+her
+here
+here's
+here 's
+hereabouts
+hereafter
+hereby
+herein
+hereinafter
+heres
+heretofore
+hereunder
+hereupon
+herewith
+hers
+herself
+hes
+him
+himself
+his
+how
+how's
+how 's
+however
+hows
+i
+i'd
+i 'd
+i'll
+i 'll
+i'm
+i 'm
+i've
+i 've
+ie
+i.e.
+if
+im
+in
+in between
+in front of
+in keeping with
+in place of
+in spite of
+in view of
+including
+indeed
+inside
+inside of
+inspite
+inspite of
+instead
+instead of
+into
+is
+isn't
+is n't
+is not
+isnt
+it
+it's
+it 's
+its
+itself
+just
+last
+latter
+latterly
+least
+less
+let's
+let us
+let 's
+lets
+like
+lot
+lots
+many
+may
+mayn't
+may n't
+may not
+me
+meanwhile
+might
+mightn't
+might n't
+might not
+mine
+minus
+more
+moreover
+most
+mostly
+much
+must
+mustn't
+must n't
+must not
+mustnt
+my
+myself
+n't
+namely
+near
+near to
+need
+need to
+needn't
+need n't
+need not
+needs
+neither
+never
+nevertheless
+next
+next to
+no
+no_one
+no one
+nobody
+none
+noone
+nor
+not
+nothing
+notwithstanding
+now
+nowhere
+of
+off
+often
+oftentimes
+on
+on top of
+once
+one
+one another
+only
+onto
+opposite
+or
+other
+other than
+others
+otherwise
+ought
+ought to
+oughtn't
+ought n't
+ought not
+our
+ours
+ours
+ourselves
+out
+out of
+outside
+over
+own
+past
+pending
+per
+perhaps
+pertaining to
+plus
+quite
+rather
+re
+regarding
+respecting
+return
+round
+same
+save
+saving
+second
+seldom
+several
+shall
+shan't
+shant
+she
+she'd
+she'll
+she's
+shes
+should
+shouldn't
+should n't
+should not
+shouldnt
+similar to
+since
+so
+some
+somebody
+somehow
+someone
+something
+sometime
+sometimes
+somewhat
+somewhere
+soon
+still
+such
+than
+thanks to
+that
+that's
+that 's
+thats
+the
+their
+theirs
+them
+themselves
+then
+thence
+there
+there's
+there 's
+thereabouts
+thereafter
+thereby
+therefore
+therein
+thereof
+thereon
+theres
+thereupon
+these
+they
+they'd
+they'll
+they're
+they've
+theyll
+theyre
+theyve
+third
+this
+tho'
+those
+though
+through
+throughout
+thru
+thus
+till
+to
+together
+too
+top
+toward
+towards
+under
+underneath
+unless
+unlike
+until
+unto
+up
+up to
+upon
+us
+used
+used to
+usedn't
+usen't
+usually
+versus
+very
+via
+wanting
+was
+wasn't
+wasnt
+we
+we'd
+we'll
+we're
+we've
+well
+were
+weren't
+werent
+what
+what's
+whatever
+whats
+when
+when's
+whence
+whenever
+whens
+where
+where's
+whereafter
+whereas
+whereby
+wherein
+wheres
+whereupon
+wherever
+whether
+which
+whichever
+while
+whilst
+whither
+who
+who's
+whoever
+whole
+whom
+whomever
+whos
+whose
+why
+why's
+whyever
+whys
+will
+with
+within
+without
+wo
+won't
+wont
+would
+wouldn't
+wouldnt
+yes
+yet
+you
+you'd
+you'll
+you're
+you've
+youd
+youll
+your
+youre
+yours
+yourself
+yourselves
+youve
+{
+}
+。
+！
+，
+？
+<SOS>
+<sos>
+<EOS>
+<eos>
+<PAD>
+<pad>

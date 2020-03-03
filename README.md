@@ -7,7 +7,7 @@ This is the code for our paper "Asking Questions the Human Way: Scalable Questio
 
 1. Check and install requirements
 
-2. Download datasets: Glove, SQuAD1.1-Zhou, SQuAD 2.0, BPE, etc. Get the wiki10000.json from https://www.dropbox.com/s/mkwfazyr9bmrqc5/wiki10000.json.zip?dl=0
+2. Download datasets: Glove, SQuAD1.1-Zhou, SQuAD 2.0, BPE, etc. Get the wiki10000.json from https://www.dropbox.com/s/mkwfazyr9bmrqc5/wiki10000.json.zip?dl=0. I also put some data in Datasets folder. Note that the path of Datasets/ is not the same with the common/constants.py. You can revise the path to the Datasets directory.
 
 3. Change paths in code: if your code structure is different, go to "config.py" and change "dataset_name" and other paths.
   Besides, go to "common/constants.py" and change paths.
