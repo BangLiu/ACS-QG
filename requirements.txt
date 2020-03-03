@@ -231,7 +231,7 @@ pytorch-pretrained-bert==0.6.1
 pytorch-transformers==1.1.0
 pyttsx3==2.71
 pytz==2018.9
-PyYAML==3.13
+PyYAML==5.1
 pyzmq==18.0.0
 rdflib==4.2.2
 regex==2019.4.14
