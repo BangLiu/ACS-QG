@@ -288,7 +288,7 @@ tsp==0.0.6
 ujson==1.35
 Unidecode==1.0.23
 Unipath==1.1
-urllib3==1.24.1
+urllib3==1.24.2
 visdom==0.1.8.8
 wasabi==0.2.1
 wcwidth==0.1.7
