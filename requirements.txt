@@ -293,7 +293,7 @@ visdom==0.1.8.8
 wasabi==0.2.1
 wcwidth==0.1.7
 websocket-client==0.54.0
-Werkzeug==0.15.2
+Werkzeug==0.15.3
 word2number==1.1
 wrapt==1.11.1
 xmltodict==0.12.0
