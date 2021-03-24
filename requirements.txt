@@ -238,7 +238,7 @@ regex==2019.4.14
 repoze.lru==0.7
 requests==2.21.0
 responses==0.10.6
-rsa==3.4.2
+rsa==4.1
 s3transfer==0.2.0
 sacremoses==0.0.34
 scikit-learn==0.20.3
