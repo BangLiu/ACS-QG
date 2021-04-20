@@ -113,7 +113,7 @@ protobuf==3.7.1
 psutil==5.6.3
 ptyprocess==0.6.0
 PuLP==1.6.10
-py==1.8.0
+py==1.10.0
 pyahocorasick==1.4.0
 pyaml==19.4.1
 pyasn1==0.4.5
