@@ -93,7 +93,7 @@ nltk==3.4.4
 nose==1.3.7
 numpy==1.17.2
 numpydoc==0.8.0
-opencv-python==4.1.0.25
+opencv-python==4.2.0.32
 overrides==1.9
 packaging==19.0
 pandas==0.24.1
