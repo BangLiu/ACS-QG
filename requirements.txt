@@ -68,7 +68,7 @@ jedi==0.15.1
 jellyfish==0.6.1
 Jinja2==2.10.1
 jmespath==0.9.3
-joblib==0.13.2
+joblib==1.2.0
 jsondiff==1.1.1
 jsonnet==0.12.1
 jsonpickle==1.1
